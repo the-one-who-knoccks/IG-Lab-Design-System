@@ -16,7 +16,6 @@ module.exports = {
     if (configType === "PRODUCTION") {
       config.base = "IG-Lab-Design-System";
     }
-
     return config;
   },
 };
